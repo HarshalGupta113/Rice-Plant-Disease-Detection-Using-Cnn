@@ -24,5 +24,3 @@ This project is particularly useful in the agricultural domain, where early dete
 - Pandas
 - Matplotlib
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
