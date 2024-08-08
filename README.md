@@ -1,6 +1,8 @@
 # Rice-Plant-Disease-Detection-Using-Cnn
 
 This project focuses on developing a machine learning-based system for detecting and classifying diseases in rice plants. The model analyzes leaf patterns and identifies diseases, such as bacterial leaf blight, by leveraging image processing techniques.
+## Dataset
+The dataset used for this project can be found [here](https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases?resource=download).
 
 ## Key Features
 - **Data Preprocessing:** Includes data augmentation and preprocessing to enhance the model's accuracy and robustness.
